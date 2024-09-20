@@ -1,0 +1,2 @@
+ERROR:root:Rate limit exceeded: hello
+INFO:django.utils.autoreload:D:\new_project\myproject\contact\views.py changed, reloading.
